@@ -2,4 +2,4 @@
 This is my first repo .
 
 # Teacher
-Shradha
+Shradha khapra
